@@ -1,1 +1,1 @@
-# Schuelerpraktiukum 2022
+#Schuelerpraktikum2022
